@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import {
   Folder, HardDrive, LayoutTemplate, RotateCcw, Undo2,
-  PlusSquare, Copy, Zap, FileCode, FileText, FileJson
+  PlusSquare, Copy, FileCode, FileText, FileJson
 } from 'lucide-react';
 import './App.css';
 
