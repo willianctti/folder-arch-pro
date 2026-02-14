@@ -2,7 +2,8 @@
 
 Visual project scaffolding made simple. Design your project structure with an intuitive drag-and-drop interface and generate automation scripts instantly.
 
-➜ View Live Project (url vercel)
+➜ View Live Project ([link](https://folder-arch-pro.vercel.app/))
+
 Features
 
     Drag & Drop Workspace: Move folders and files intuitively.
